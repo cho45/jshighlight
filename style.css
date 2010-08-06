@@ -1,0 +1,52 @@
+pre.code {
+	font-size: 80%;
+}
+
+pre.code {
+	color: #666666;
+	background: #efefef;
+}
+
+pre.code .comment {
+	color: #507c6f;
+}
+
+pre.code .string {
+	color: #968258;
+}
+
+pre.code .number {
+	color: #24c3b5;
+}
+
+pre.code .identifer {
+	color: #333333;
+}
+
+pre.code .symbol {
+	color: #479cdb;
+}
+
+pre.code .variable {
+	color: #479cdb;
+}
+
+pre.code .constant {
+	color: #479cdb;
+}
+
+pre.code .special_variable {
+	color: #14779d;
+}
+
+pre.code .keyword {
+	color: #4e7585;
+}
+
+pre.code .literal {
+	color: #968258;
+}
+
+pre.code .operator {
+	color: #29845a;
+}
